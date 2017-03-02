@@ -10,3 +10,4 @@ if (value === 0) {
   console.log('wartość dodatnia');
 } else {
   console.log('wartość ujemna');
+}
